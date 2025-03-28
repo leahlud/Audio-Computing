@@ -1,4 +1,4 @@
-# Audio Computing
+# CS 448 Labs
 
 **Python environment setup:**
 - create & activate the virtual environment
