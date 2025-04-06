@@ -1,0 +1,8 @@
+flax
+jax
+jupyter
+matplotlib
+numpy
+scipy
+scikit-learn
+librosa
