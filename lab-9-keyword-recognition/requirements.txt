@@ -1,0 +1,7 @@
+flax
+jax
+jupyter
+matplotlib
+numpy
+scipy
+hmmlearn
